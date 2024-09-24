@@ -1,5 +1,5 @@
 const Home = (): JSX.Element => {
-    return <h1>Home Page</h1>;
+    return <div className="bg-[red]">Home Page</div>;
 };
 
 export default Home;
