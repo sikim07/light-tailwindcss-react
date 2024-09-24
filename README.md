@@ -1,4 +1,4 @@
-# Light-Tailwind-React
+# Light-WEBPACK-Tailwind-React
 
 This repository is for projects for assignment testing and light testing using **React**, **Webpack** and **TailwindCSS**.
 
