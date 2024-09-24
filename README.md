@@ -1,6 +1,6 @@
-# Light-React-Webpack-Playground
+# Light-Tailwind-React
 
-This repository is for projects for assignment testing and light testing using **React** and **Webpack**.
+This repository is for projects for assignment testing and light testing using **React**, **Webpack** and **TailwindCSS**.
 
 ---
 
@@ -16,3 +16,6 @@ This repository is for projects for assignment testing and light testing using *
 -   **webpack** `^5.94.0`
 -   **webpack-cli** `^5.1.4`
 -   **webpack-dev-server** `^5.1.0`
+-   **autoprefixer** `^10.4.20`
+-   **postcss-loader** `^8.1.1`
+-   **tailwindcss** `3.4.13`
